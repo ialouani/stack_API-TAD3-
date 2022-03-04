@@ -1,0 +1,3 @@
+/home/user/stack_API-TAD3-/CMakeFiles/rebuild_cache.dir
+/home/user/stack_API-TAD3-/CMakeFiles/test_all.dir
+/home/user/stack_API-TAD3-/CMakeFiles/edit_cache.dir

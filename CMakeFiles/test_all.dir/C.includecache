@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/user/stack_API-TAD3-/./stack.h
+
+/home/user/stack_API-TAD3-/stack.c
+./stack.h
+/home/user/stack_API-TAD3-/./stack.h
+stdio.h
+-
+stdlib.h
+-
+
+/home/user/stack_API-TAD3-/testsFS___plus.c
+./stack.h
+/home/user/stack_API-TAD3-/./stack.h
+stdio.h
+-
+stdlib.h
+-
+assert.h
+-
+string.h
+-
+

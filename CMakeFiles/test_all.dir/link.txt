@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/test_all.dir/stack.c.o CMakeFiles/test_all.dir/testsFS___plus.c.o  -o test_all 
